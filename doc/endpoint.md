@@ -2,6 +2,6 @@
 
 Name | base endpoint
 ------------ | ------------
-rest-api | **[https://api.bhex.com](https://api.bhex.com)**
-web-socket-streams | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)**
-user-data-stream | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)**
+rest-api | **[https://api.bitribe.com](https://api.bitribe.com)**
+web-socket-streams | **[wss://wsapi.bitribe.com](wss://wsapi.bitribe.com)**
+user-data-stream | **[wss://wsapi.bitribe.com](wss://wsapi.bitribe.com)**
